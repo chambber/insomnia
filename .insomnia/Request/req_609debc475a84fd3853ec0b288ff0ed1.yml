@@ -1,0 +1,26 @@
+_id: req_609debc475a84fd3853ec0b288ff0ed1
+type: Request
+parentId: wrk_c9d14cca77b54dfdaa77d0db076a7d16
+modified: 1651860929089
+created: 1651858931694
+url: https://api.ifcshop.com.br/ihub/orders/10810-01?select=tracking
+name: InfraShop iHub Order
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: api-key
+    value: 9Z5Y8iLMGJ8MoB8AnSl09YzLR6bmTV3u
+    id: pair_539cc2ed53574fb4b34c7e969109393f
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaW50ZWdyYXRpb24iLCJzdWIiOiI2MWE5ZmJhYzVkNDgyODAwMTE3MmRmMzAiLCJuYW1lIjoiaXBkdi1zdG9yZWZyb250IiwiaXNzIjoiZEgwRWhrTVlCNVNGdHlJbTNhYVJ5QUJUTXJVbFhhT08iLCJuYmYiOjE2NTE4NjAyNTEsImV4cCI6MTY4MzM5NjI1MSwiaWF0IjoxNjUxODYwMjUxfQ._cDlQB21JGWjUxIY47BJJaQebfey8ntQAJA7y_8_LHU
+metaSortKey: -1651858931694
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
